@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Test vectors
+*.stdin
+*.stdout
